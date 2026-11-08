@@ -1,11 +1,10 @@
 [package]
-name = "sigmaos-archlinux-vimrc"
+name = "sigmaos_archlinux_vimrc"
 version = "0.1.0"
 edition = "2021"
-authors = ["SigmaOS Contributors"]
-description = "SigmaOS archlinux-vimrc component (Arch Linux inspired)"
-license = "MIT OR Apache-2.0"
+license = "MIT"
+description = "SigmaOS archlinux-vimrc component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
-name = "sigmaos_archlinux-vimrc"
+name = "sigmaos_archlinux_vimrc"
 path = "src/lib.rs"
