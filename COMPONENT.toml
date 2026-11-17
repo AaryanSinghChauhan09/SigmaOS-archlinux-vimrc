@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-vimrc"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-vimrc component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
